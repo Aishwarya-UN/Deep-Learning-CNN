@@ -1,1 +1,1 @@
-# Deep-Learning-MNIST-dataset
+# Deep-Learning-CNN
